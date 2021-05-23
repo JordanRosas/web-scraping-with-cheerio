@@ -10,4 +10,6 @@
 - in your other terminal window just run the command `node potus.js`
 - after it is done running you should see all 46 presidents in the data.json file result should look like this:
 
- > hi
+ > ```
+ {    }
+ ```
