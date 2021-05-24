@@ -2,7 +2,7 @@
 
 ### Just a small project that scrapes the web for the presidents and their birthdays and drops that payload into a local json file. 
 ## How to run locally:
-
+- this is a node.js project so if you don't have node installed on your machine visit this site: https://nodejs.org/en/download/ and download the LTS version once installed you can verify by running the `node -v` command.
 - navigate to your workspace directory and clone this repo by typing `git clone git@github.com:JordanRosas/web-scraping-with-cheerio.git` in your terminal
 - `cd web-scraping-with-cheerio && npm install`
 - `npm install -g json-server` -> I have this installed globally (hence the `-g` argument) on my system but should be ok to install as a dev dependency by using `npm install json-server --save-dev`
